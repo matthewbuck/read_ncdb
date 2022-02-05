@@ -5,4 +5,4 @@ Significant processing after reading is needed. <br />
 <br /><p>
 You will need to place your own SAS settings file from the NCDB in the same directory as this script. </p>
 <p>
-The eventual goal is to turn this reader into a package with tools for processing of these files in R. </p>
+The eventual goal is to create a package for processing of these files in R. </p>
